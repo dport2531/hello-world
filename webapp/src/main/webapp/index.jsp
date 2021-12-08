@@ -33,7 +33,8 @@
 
    <h1> Thank you, Happy Learning </h1>
    <h1> Deploying on container using ansible </h1> 
-   <h2> Fully automation process using GitHub, Jenkins, Ansible and DockerHub </h2>
+   <h2> Fully automation process using GitHub, Jenkins, Ansible, DockerHub and Kubernetes </h2>
+      
    
 
 </form>
